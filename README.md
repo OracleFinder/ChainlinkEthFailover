@@ -1,7 +1,4 @@
-# Chainlink ETH failover proxy
-
-**NOTE:** This is currently a beta release, and should only be using on test networks. A stable release will be tagged
-once it goes through sufficient testing.
+# **NOTE:** This repository is no longer maintained. Please use [Fiews/ChainlinkEthFailover](https://github.com/Fiews/ChainlinkEthFailover)
 
 ## What does it do?
 
